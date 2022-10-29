@@ -1,7 +1,8 @@
 Meta iOS Developer
 Offered by
 Meta
-Sponsored by Meta Elevate
+
+
 # About this Professional Certificate
 Have you ever wanted to build your own mobile app? This Professional Certificate will teach you how to build applications for iOS devices and start a new career as an iOS Developer. By the end of this program, you’ll be able to create and run a mobile app powered by iOS operating systems.
 
@@ -23,20 +24,17 @@ Create cross-platform applications using React Native
 
 # COURSE 1
 Introduction to ios Mobile Application Development
-4.8stars
-142 ratings
+
 Learn about iOS development by learning about the OS and the development platform. Discover how to set up and prepare a local environment. Get acquainted with the Swift playground and write code in Swift. By the end of this course, you’ll be able to: -Demonstrate a working knowledge of the general principles of mobile apps and the iOS ecosystem -Set up and explore the XCode environment -Demonstrate an understanding of how XCode is used in the Swift app development process -Write Swift code and create UI with the use of Swift playgrounds -Navigate the Swift UI -Manipulate data in Swift You’ll gain experience with the following tools and software: -Swift application and software -iOS software and development environment -Mobile OS -XCode -Objective-C -UI frameworks -Testflight -UI storyboard -MVC -APIs
  
 # COURSE 2
 Version Control
-4.7stars
-389 ratings
+
 Learn how modern software developers collaborate across the world without messing up each other's code. You will look at the different version control systems and how to create an effective software development workflow. You will be introduced to some of the most commonly used Linux commands that you can use to work with files on your hard drive and create powerful workflows that will automate your work, saving you time and effort. Finally, you will see how Git can be used in software development projects to manage team files. And you will create a repository that can manage code revisions.
  
 # COURSE 3
 Programming Fundamentals in Swift
-4.7stars
-11 ratings
+
 This course is ideal for beginners eager to learn the fundamental concepts that underpin the Swift programming language. Explore the basic programming concepts and data structures that are core to any language, while discovering the unique aspects that make Swift as versatile as it is today. In this course, you will receive hands-on practice utilizing these concepts. More specifically, you will learn how to use constants and variables with different data types and explore how to sort and store information in collection types such as arrays, tuples and dictionaries. Finally, you will discover how to make your code reusable and more expressive by using functions and closures. By the end of this course, you will be able to: • Demonstrate a working knowledge of general programming principles • Prepare your computer system for Swift programming • Show understanding of Swift syntax and how to control the flow of code • Demonstrate knowledge of how to declare, use and modify constants and variables • Differentiate between the different types of operators and their functions • Demonstrate how to create simple control flow patterns and call functions using Swift This is a beginner course for learners who would like to prepare themselves for a career in iOS development. To succeed in this course, you do not need prior web development experience, only basic internet navigation skills and an eagerness to get started with coding.
  
 # COURSE 4
@@ -65,8 +63,7 @@ This course is the first in a series that will allow you to expand your skills a
  
 # COURSE 10
 React Basics
-4.7stars
-50 ratings
+
 React is a powerful JavaScript library that you can use to build user interfaces for web and mobile applications (apps). In this course, you will explore the fundamental concepts that underpin the React library and learn the basic skills required to build a simple, fast, and scalable app. By the end of this course, you will be able to: • Use reusable components to render views where data changes over time • Create more scalable and maintainable websites and apps • Use props to pass data between components • Create dynamic and interactive web pages and apps • Use forms to allow users to interact with the web page • Build an application in React You’ll gain experience with the following tools and software: • React.js • JSX • React • HTML, CSS and JavaScript • VSCode You will be able to leverage the potential of this course to develop new skills, improve productivity, act effectively with data and boost your career. This is a beginner course for learners who would like to prepare themselves for a career in mobile development. To succeed in this course, you do not need prior development experience, only basic internet navigation skills and an eagerness to get started with coding.
  
 # COURSE 11
@@ -75,11 +72,7 @@ React Native is an open-source framework for building cross-platform application
  
 # COURSE 12
 ios App Capstone
-In this capstone course, you’ll demonstrate your proficiency in your new skill set by creating a native iOS app. By the end of this course, you’ll be able to: -Build a native iOS mobile app -Publish and sell it on the Apple Store You’ll gain experience with the following tools and software: -SwiftUI and MVC architecture -APIs -Core Data -iOS development tools and environments -Geolocation software -Application design and development libraries
- 
-# COURSE 13
-Coding interview preparation
-The final course in this program will help prepare you for the unique aspects of a coding job interview, with approaches to problem solving, computer science foundations and soft skills needed to land the job. You’ll gain strategic insights and tips for successful interviewing. And, you’ll have the opportunity to openly discuss the emotional components of the interview process with other learners taking this course.
+In this capstone course, you’ll demonstrate your proficiency in your new skill set by creating a native iOS app. By the end of this course, you’ll be able to: -Build a native iOS mobile app -Publish and sell it on the Apple Store You’ll gain experience with the following tools and software: -SwiftUI and MVC architecture -APIs -Core Data -iOS development tools and environments -Geolocation software -Application design and development libraries.
  
 
 
