@@ -2,10 +2,6 @@ Meta iOS Developer
 Offered by
 Meta
 
-
-# About this Professional Certificate
-Have you ever wanted to build your own mobile app? This Professional Certificate will teach you how to build applications for iOS devices and start a new career as an iOS Developer. By the end of this program, you’ll be able to create and run a mobile app powered by iOS operating systems.
-
 In this program, you’ll learn:
 
 Essential iOS programming concepts and the tools needed to develop applications 
@@ -73,7 +69,3 @@ React Native is an open-source framework for building cross-platform application
 # COURSE 12
 ios App Capstone
 In this capstone course, you’ll demonstrate your proficiency in your new skill set by creating a native iOS app. By the end of this course, you’ll be able to: -Build a native iOS mobile app -Publish and sell it on the Apple Store You’ll gain experience with the following tools and software: -SwiftUI and MVC architecture -APIs -Core Data -iOS development tools and environments -Geolocation software -Application design and development libraries.
- 
-
-
- 
